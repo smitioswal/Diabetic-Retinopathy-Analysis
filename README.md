@@ -8,4 +8,8 @@ This project aims at:
 - Aiming at increasing cost-effectiveness and accuracy of screening and diagnosis  
 
 Here is an youtube video with our team members explaining the project in detail:  
-https://www.youtube.com/watch?v=GQuPV8T0kt4&feature=youtu.be
+https://www.youtube.com/watch?v=GQuPV8T0kt4&feature=youtu.be  
+
+Accuracy of the model:  
+![image](https://user-images.githubusercontent.com/92663204/206695559-3acc425a-a53d-45f4-9947-543d1b33841e.png)
+
